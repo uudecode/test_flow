@@ -511,7 +511,7 @@
             "y" : 312.0
           },
           "properties" : {
-            "Log prefix" : "[XX] someXXX [packFilename: ${filename}]",
+            "Log prefix" : "[XX] someInfo [packFilename: ${filename}]",
             "character-set" : "UTF-8",
             "Log Level" : "warn",
             "attributes-to-log-regex" : ".*",
