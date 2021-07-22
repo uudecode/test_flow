@@ -1,0 +1,6 @@
+flows:
+  b24ebbcc-86ee-4f74-b0ac-a3c13c4877d0: {ver: 1, file: testing_nifi.snapshot, comments: testing
+      nifi, author: anonymous, created: 1626967983053, flowName: testing nifi, flowDesc: testing
+      nifi}
+layoutVer: 1
+bucketId: 07b31ff5-6570-494f-8ee7-e332df2644e8
